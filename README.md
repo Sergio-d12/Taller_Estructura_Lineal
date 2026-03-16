@@ -1,6 +1,7 @@
 Sergio David Moreno Benavides.
 Descripcion:
-Este fue un taller hecho por un Estudiante Del Colegio Mayor Del Cauca , como parte de repaso en la materia Estructura De datos impartida
+Este fue un taller hecho por un Estudiante Del Colegio Mayor Del Cauca ,
+como parte de repaso en la materia Estructura De datos impartida
 por el docnete Manuel Arturo Melo Legarda, dentro del taller se encuentran varios tipos de ejercicios para ejercitar y mejorar
 la logica de programacion en el lenguaje de Java,el taller fue hecho con el IDE (Entorno de desarollo) de Apache Netbeans, dentro del archivo hay 15 ejercicios de todo tipo de difilcutades desde lo mas basico 
 hasta lo mas complejo.
