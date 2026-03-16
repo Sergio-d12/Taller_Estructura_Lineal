@@ -13,5 +13,5 @@ paso 4: Cada paquete tiene 5 clases y una clase main que es donde se ejecuta el 
 paso 5: Cada clase tiene sus propios metodos (Comportamientos), esos metodos se instancian en su respectiva clase Main.
 paso 6: Dentro de cada clase main estan las instancias de cada clase y sus respectivos metodos.
 paso final: Ya por ultimo para que el programa funciones ejecuta una clase main (Usualmente diferenciada por una fecla en la parte inferior derecha de la metafora de la clase), para que el programa funcione
-y realize las respectivas soluciones de los problemas, y listo asi es como funciona el programa
+y este realize las respectivas soluciones de los problemas, y listo asi es como funciona el programa
 Nota: El programa es de libre uso puedes hacer las modificaciones que desees , ayudaria mucho, gracias (:
